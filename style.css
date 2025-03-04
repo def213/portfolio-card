@@ -116,3 +116,23 @@ footer {
     justify-content: center;
     color: white;
 }
+
+.vk:hover {
+    transform: scale(1.05);
+    cursor: pointer;
+}
+
+.tg:hover {
+    transform: scale(1.05);
+    cursor: pointer;
+}
+
+.github:hover {
+    transform: scale(1.05);
+    cursor: pointer;
+}
+
+.emal:hover {
+    transform: scale(1.05);
+    cursor: pointer;
+}
